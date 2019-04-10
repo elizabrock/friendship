@@ -11,6 +11,8 @@ Things you may want to cover:
 
 * Configuration
 
+  * `cp config/database.example.yml config/database.yml`
+
 * Database creation
 
 * Database initialization
