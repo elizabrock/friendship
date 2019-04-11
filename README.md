@@ -36,6 +36,8 @@ This README documents the steps that are necessary to get the application up and
 * System dependencies
 
   * Postgresql
+  * Node
+  * Yarn
 
 * Configuration
 
